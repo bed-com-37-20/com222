@@ -1,5 +1,8 @@
-public class TestClass {
-    public static void main(String []args){
-        Employment empl =new Employment();
+class TestClass{
+    public static void main (String args[]){
+
+        Pracutes ps = new Pracutes();
+
+        System.out.println(ps.toString());
     }
 }

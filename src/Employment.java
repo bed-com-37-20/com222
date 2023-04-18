@@ -9,6 +9,9 @@ public class Employment extends Person {
 
     public Employment(){
         System.out.println("last to excute");
-    };
+    }
+    public String toString(){
+        return System.out.println("");
+    }
 
 }
